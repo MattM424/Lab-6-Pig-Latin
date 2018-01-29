@@ -1,0 +1,7 @@
+c:\users\ginge\source\repos\Lab6PigLatin\Lab6PigLatin\bin\Debug\Lab6PigLatin.exe.config
+c:\users\ginge\source\repos\Lab6PigLatin\Lab6PigLatin\bin\Debug\Lab6PigLatin.exe
+c:\users\ginge\source\repos\Lab6PigLatin\Lab6PigLatin\bin\Debug\Lab6PigLatin.pdb
+c:\users\ginge\source\repos\Lab6PigLatin\Lab6PigLatin\obj\Debug\Lab6PigLatin.csprojResolveAssemblyReference.cache
+c:\users\ginge\source\repos\Lab6PigLatin\Lab6PigLatin\obj\Debug\Lab6PigLatin.csproj.CoreCompileInputs.cache
+c:\users\ginge\source\repos\Lab6PigLatin\Lab6PigLatin\obj\Debug\Lab6PigLatin.exe
+c:\users\ginge\source\repos\Lab6PigLatin\Lab6PigLatin\obj\Debug\Lab6PigLatin.pdb
